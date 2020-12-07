@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>myrss</title>
-<link>https://krazybear.com/wp-content/</link>
+<link>https://www.firstpeople.us/FP-Html-Legends/</link>
 <description>the rss file</description>
 <atom:link href="AllSotriesLinksRSS.xml" rel="self" type="application/rss+xml" />
 <item>
